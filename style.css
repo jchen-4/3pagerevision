@@ -1,0 +1,252 @@
+a:link {
+  text-decoration: none;
+
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+#main_container{
+  background-color: lightgrey;
+  width: 101vw;
+  height: 200vh;
+  position: fixed;
+
+}
+#main_container3{
+  background-color: lightgrey;
+  width: 101vw;
+  height: 120vh;
+position: relative;
+
+}
+.mainmenu {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+background-color: grey;
+width: 100vw;
+height: 60px;
+padding: 10px
+
+}
+.mainmenu > div {
+  margin: 10px;
+  font-size: 20px;
+  width: 15vw;
+  height: 50px;
+  font-family: 'Sintony', sans-serif;
+}
+
+.mainmenu2 {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+background-color: grey;
+width: 100vw;
+height: 60px;
+padding: 10px
+
+}
+.mainmenu2 > div {
+  margin: 10px;
+  font-size: 20px;
+  width: 15vw;
+  height: 50px;
+  font-family: 'Sintony', sans-serif;
+}
+
+.mainmenu3 {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+background-color: grey;
+width: 100vw;
+height: 60px;
+padding: 10px
+
+}
+.mainmenu3 > div {
+  margin: 10px;
+  font-size: 20px;
+  width: 15vw;
+  height: 50px;
+  font-family: 'Sintony', sans-serif;
+}
+
+
+
+
+#content {
+  width: 50vw;
+  height: 60vh;
+  background-color: #A9A8AA;
+  position: fixed;
+  top: 190px;
+  left: 25%;
+  font-family: 'Sintony', sans-serif;
+  font-size: 25px;
+  padding: 25px;
+}
+
+#bench {
+  width: 10px;
+  height: 10px;
+  margin-left: 10px;
+  left: 34%;
+  top: 45%;
+  position: fixed;
+}
+
+#topmenu2 {
+  width: 100vw;
+  height: 50px;
+  background-color: grey;
+  position: fixed;
+  font-family: 'Sintony', sans-serif;
+  z-index: 2;
+}
+
+#main_container2{
+  background-color: lightgrey;
+  width: 101vw;
+  height: 200vh;
+  position: absolute;
+
+}
+#content2 {
+  width: 10vw;
+  height: 160vh;
+  position: relative;
+  top: 100px;
+  left: 10%;
+  z-index: 0;
+}
+
+#bench1 {
+width: 400px;
+height: 300px;
+position: relative;
+top: 5%;
+left: 10%;
+z-index: 1;
+}
+
+#bench1text {
+width: 400px;
+height: 20px;
+position: relative;
+top: 5%;
+left: 110%;
+font-family: 'Sintony', sans-serif;
+font-size: 24px;
+
+}
+#bench2 {
+width: 100px;
+height: 100px;
+position: relative;
+top: 5%;
+left: 450%;
+}
+
+#bench2text {
+width: 400px;
+height: 100px;
+position: relative;
+top: 100%;
+left: -440%;
+font-family: 'Sintony', sans-serif;
+font-size: 24px;
+
+}
+#bench3 {
+width: 100px;
+height: 100px;
+position: relative;
+top: 30%;
+left: 10%;
+}
+
+#bench3text {
+width: 400px;
+height: 100px;
+position: relative;
+top: 95%;
+left: 450%;
+font-family: 'Sintony', sans-serif;
+font-size: 24px;
+}
+
+
+
+#content3{
+  width: 60vw;
+  height: 100vh;
+  position: fixed;
+  top: 10px;
+  left: 19%;
+  background-color: #A9A8AA;
+}
+
+#content3background {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 10px;
+    left: 0.65%;
+    background-color: #c6c5c7;
+
+
+}
+
+.altcontainer {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: lightgrey;
+width: 100vw;
+height: 100vh;
+
+
+}
+.altcontainer > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 23px;
+  font-family: 'Sintony', sans-serif;
+
+}
+#altpic {
+width: 100px;
+height: 100px;
+position: fixed;
+top: 20%;
+left: 30%;
+}
+
+#alttitle {
+  width: 450px;
+  height: 50px;
+  position: fixed;
+  top: 12%;
+  left: 34%;
+  font-family: 'Sintony', sans-serif;
+  font-size: 20px;
+}
+
+#alttext {
+  width: 580px;
+  height: 100px;
+  position: fixed;
+  top: 65%;
+  left: 28%;
+  font-family: 'Sintony', sans-serif;
+  font-size: 17px;
+}
